@@ -1,7 +1,7 @@
 
 # Drum-Kit
 
-Welcome to the Drum-Kit project! This is a simple interactive drum kit application where users can play various drum sounds by pressing specific keys on their keyboard.
+Welcome to the Drum-Kit project! This is a simple interactive drum kit application where users can play various drum sounds by pressing specific keys using mouse.
 
 
 ## Table of Contents
@@ -34,7 +34,7 @@ To get a local copy up and running, follow these steps:
 3. Open   'index.html' in your browser to view the application.
 ## Usage
 Open the application in your web browser.  
-Press the following keys to play the corresponding drum sounds:
+Press the following Buttons to play the corresponding Drum Sounds:
 
 - `w` - [Drum 1]
 - `a` - [Drum 2]
