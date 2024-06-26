@@ -10,7 +10,9 @@ Welcome to the Drum-Kit project! This is a simple interactive drum kit applicati
 - [Installation](#installation)
 - [Usage](#usage)
 ## Demo
-[Watch the demo video]
+[Visit GitHub]([https://github.com](https://github.com/premgodara-oss/Drum-Kit/issues/1#issue-2374939137))
+
+
 
 ## Features
 - Play different drum sounds using keyboard keys.
